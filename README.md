@@ -1,2 +1,2 @@
 # open-gov
-Open-governmental playground for data science
+Open-governmental playground for data science ideas.
